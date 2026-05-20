@@ -24,4 +24,10 @@
 
 <img width="960" height="1020" alt="Image" src="https://github.com/user-attachments/assets/350b53e5-f970-484d-a0df-cc592b8cb11d" />
 
+*OUTPUT:
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/32b93234-c5f4-4a18-a560-d4f0319bb7cc" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7e3400de-0d0b-4423-9cc7-3c9202406814" />
+
 
