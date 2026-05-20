@@ -20,4 +20,8 @@
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3f49c362-507a-43b3-aaf3-617b8ef0af64" />
 
+*OUTPUT:
+
+<img width="960" height="1020" alt="Image" src="https://github.com/user-attachments/assets/350b53e5-f970-484d-a0df-cc592b8cb11d" />
+
 
